@@ -37,6 +37,7 @@ public class App {
             else if (array[i] > 100)
                 mayor++;
         }
+        System.out.println("Array original:");
         pintaTablaFUll(array);
         System.out.println();
         System.out.println();
